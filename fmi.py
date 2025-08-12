@@ -17,4 +17,4 @@ with open("Multipleset.txt", "r") as f:
         a, b, c = map(float, line.strip().split())
         quadraticroots(a, b, c)
 
-"ADDED NEW LINE"
+
